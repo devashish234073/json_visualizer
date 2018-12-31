@@ -1,0 +1,16 @@
+{
+  "name": "json_visualizer",
+  "version": "1.0.1",
+  "description": "it converts a json into html table and hosts it to the port defined at specified port. See index.js for its usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "json",
+    "json_visualizer",
+    "devashish234073"
+  ],
+  "author": "Devashish Priyadarshi",
+  "license": "ISC"
+}
